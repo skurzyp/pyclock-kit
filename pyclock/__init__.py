@@ -4,8 +4,8 @@ from datetime import datetime
 from typing import Optional
 
 __version__ = "0.1.0"
-__author__ = "Your Name"
-__email__ = "your.email@example.com"
+__author__ = "Stanislaw Kurzyp"
+__email__ = "kurzyp.st@gmail.com"
 
 
 def get_time(format: Optional[str] = None) -> str:

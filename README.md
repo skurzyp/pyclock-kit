@@ -20,7 +20,7 @@ pip install pyclock-kit
 ## Quick Start
 
 ```python
-from pyclock-kit import get_time, get_timestamp, get_utc_time
+from pyclock import get_time, get_timestamp, get_utc_time
 
 # Get current time (default format)
 print(get_time())
